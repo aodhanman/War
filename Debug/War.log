@@ -1,0 +1,5 @@
+﻿  War.cpp
+c:\users\aodhan\source\repos\war\war\war.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\aodhan\source\repos\war\war\war.cpp(19): warning C4101: 'Player1': unreferenced local variable
+c:\users\aodhan\source\repos\war\war\war.cpp(59): warning C4101: 'played': unreferenced local variable
+  War.vcxproj -> C:\Users\aodhan\source\repos\War\Debug\War.exe
